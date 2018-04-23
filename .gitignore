@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
+.DS_store
+.json
 data/
 data_insight_presentation/
